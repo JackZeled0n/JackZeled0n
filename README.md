@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there :call_me_hand:
+I'm Jake
+
+![](jakedancing.gif)
 
 <!--
 **JackZeled0n/JackZeled0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
