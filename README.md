@@ -4,7 +4,7 @@ but not the dog...
 
 I’m a design-minded computer engineer focused on building beautiful interfaces 👨‍💻
 
-<img src="Jake%20The%20Dog.png" width="800">
+<img src="Jake.png" width="800">
 
 <!--
 **JackZeled0n/JackZeled0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
