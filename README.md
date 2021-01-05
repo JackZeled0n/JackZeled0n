@@ -1,6 +1,6 @@
 ## Hi there :call_me_hand:
 I'm **Jake**, 
-but not the dog...
+but not the dog... <img src="https://media.giphy.com/media/geFGrjlJb2t80LiJf9/giphy.gif" width="50px">
 
 I’m a design-minded computer engineer focused on building beautiful interfaces 👨‍💻
 
