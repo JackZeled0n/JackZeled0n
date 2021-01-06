@@ -2,8 +2,7 @@
 I'm **Jake**, 
 but not the dog... <img src="https://media.giphy.com/media/geFGrjlJb2t80LiJf9/giphy.gif" width="50px">
 
-I’m a design-minded computer engineer focused on building beautiful interfaces <img src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif" width="80px">
-
+I’m a design-minded computer engineer focused on building beautiful interfaces.
 <img src="https://media.giphy.com/media/f31DK1KpGsyMU/giphy.gif" width="800">
 
 <!--
