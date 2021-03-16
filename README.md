@@ -4,7 +4,7 @@ but not the dog... <img src="https://media.giphy.com/media/geFGrjlJb2t80LiJf9/gi
 
 I’m a design-minded computer engineer focused on building beautiful interfaces.
 
-<img src="https://media.giphy.com/media/FDepjSPPgTdZPWDuUp/giphy.gif" alt="Jake" width="550">
+<img src="jakedancing.gif" alt="Jake" width="800">
 
 <!--
 **JackZeled0n/JackZeled0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
