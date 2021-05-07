@@ -3,8 +3,9 @@ I'm **Jake**,
 but not the dog... <img src="https://media.giphy.com/media/geFGrjlJb2t80LiJf9/giphy.gif" width="50px">
 
 I’m a design-minded computer engineer focused on building beautiful interfaces.
-
-<img src="jakedancing.gif" alt="Jake" width="600">
+<p align="center">
+  <img src="jakedancing.gif" alt="Jake" width="600">
+</p>
 
 <!--
 **JackZeled0n/JackZeled0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
