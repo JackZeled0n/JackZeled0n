@@ -4,7 +4,7 @@ but not the dog... <img src="https://media.giphy.com/media/geFGrjlJb2t80LiJf9/gi
 
 I’m a design-minded computer engineer focused on building beautiful interfaces.
 <p align="center">
-  <img src="jakedancing.gif" alt="Jake" width="600">
+  <img src="jake-blowup.gif" alt="Jake" width="600">
 </p>
 
 <!--
