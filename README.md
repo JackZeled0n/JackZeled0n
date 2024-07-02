@@ -5,7 +5,8 @@ but not the dog... <img src="https://media.giphy.com/media/geFGrjlJb2t80LiJf9/gi
 A design-minded computer engineer focused on building beautiful interfaces and also voice development.
 
 <p align="center">
-  <img src="jake-globos.gif" alt="Jake" width="600">
+  <img src="impresionado-finn.gif" alt="Finn" width="200">
+  <img src="impresionado-jake.gif" alt="Jake" width="200">
 </p>
 
 <!--
