@@ -1,8 +1,8 @@
 ## Hi there :call_me_hand:
-I'm **Jake**, 
+I'm ✨[**Jake**](https://jackzeled0n.github.io/Profile/), 
 but not the dog... <img src="https://media.giphy.com/media/geFGrjlJb2t80LiJf9/giphy.gif" width="50px">
 
-I’m a design-minded computer engineer focused on building beautiful interfaces and also voice development.
+A design-minded computer engineer focused on building beautiful interfaces and also voice development.
 
 <p align="center">
   <img src="jake-globos.gif" alt="Jake" width="600">
