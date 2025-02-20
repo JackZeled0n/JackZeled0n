@@ -2,7 +2,7 @@
 I'm ✨[**Jake**](https://jackzeled0n.github.io/Profile/), 
 but not the dog... <img src="https://media.giphy.com/media/geFGrjlJb2t80LiJf9/giphy.gif" width="50px">
 
-A design-minded computer engineer focused on building beautiful interfaces and also voice development.
+Computer Engineer with a strong focus on crafting intuitive and visually engaging user interfaces, while also specializing in full-stack development and voice-first experiences.
 
 <p align="center">
   <img src="impresionado-finn.gif" alt="Finn" width="200">
